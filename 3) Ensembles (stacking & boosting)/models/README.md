@@ -1,0 +1,1 @@
+В этой папке должны быть модели `Stacking_ensemble_simple_none.pkl` и `Stacking_ensemble_simple_stop_words.pkl`, но они имеют слишком большой размер для github, поэтому их здесь нет (но их можно получить запустив соответствующие блоки кода).
